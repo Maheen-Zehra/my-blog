@@ -27,7 +27,7 @@ export default function Navbar() {
             </div>
 
             {/* Hamburger Icon for Mobile, placed on the right side */}
-            <div className="md:hidden flex items-center">
+            <div className="md:hidden flex items-center text-black ">
               <button onClick={toggleMenu}>
                 <div className="w-6 h-6 flex flex-col justify-between items-center space-y-1">
                   <div className="w-6 h-1 bg-orange"></div>
