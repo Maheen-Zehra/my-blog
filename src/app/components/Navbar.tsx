@@ -30,9 +30,9 @@ export default function Navbar() {
             <div className="md:hidden flex items-center">
               <button onClick={toggleMenu}>
                 <div className="w-6 h-6 flex flex-col justify-between items-center space-y-1">
-                  <div className="w-6 h-1 bg-white"></div>
-                  <div className="w-6 h-1 bg-white"></div>
-                  <div className="w-6 h-1 bg-white"></div>
+                  <div className="w-6 h-1 bg-orange"></div>
+                  <div className="w-6 h-1 bg-orange"></div>
+                  <div className="w-6 h-1 bg-orange"></div>
                 </div>
               </button>
             </div>
