@@ -18,7 +18,7 @@ export default function Navbar() {
           <div className="flex flex-row items-center justify-between w-full md:w-auto">
             {/* Logo */}
             <div className="flex gap-4 items-center">
-              <div className="text-white">
+              <div className="text-orange">
                 <img src="/logo.png" alt="logo" className="w-12 h-10 md:w-12 md:h-10" />
               </div>
               <div className="flex text-[20px] md:text-[30px] font-bold text-red-950 items-center font-serif">
